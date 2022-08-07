@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Anime Decider</string>
+    <string name="attack_on_titan">Attack on Titan</string>
+    <string name="logo_for_app">logo for app</string>
+    <string name="decide_button">Decide Button</string>
+    <string name="add_anime">Add Anime</string>
+    <string name="add_new_anime">Add New Anime</string>
+    <string name="remove_anime">Remove Anime</string>
+    <string name="welcome_to_the_anime_decider_app">Welcome to the Anime Decider App!</string>
+</resources>
